@@ -5,5 +5,5 @@
 
 <h1>To start in terminal: npm start</h1>
 
-<img src="https://raw.githubusercontent.com/Diego-Bravi/mern-stack-tasks/master/assets/mern-stack-tasks1.jpg" width="1000"/>
+<img src="https://raw.githubusercontent.com/Diego-Bravi/tick-tack-toe/master/src/Sin Titulo.jpg" width="1000"/>
 </div>
